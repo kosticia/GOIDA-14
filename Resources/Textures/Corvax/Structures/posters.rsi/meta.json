@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "By kosticia (GitHub, Sanabi, Discord, Goida)",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "postercorvax1_legit"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+- type: entity
+  parent: PosterBase
+  id: PosterLegitDeathToMetacoops
+  name: "No metafrendship"
+  description: "This poster reminds the crew that frendship isn't magic on Nanotrasen stations."
+  components:
+  - type: Sprite
+    sprite: Corvax/Structures/posters.rsi
+    state: postercorvax1_legit
